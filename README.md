@@ -33,5 +33,5 @@ This project is a **Line Marking Robot** designed to assist in automating the ma
 3. A mounted marker or spray can draws lines as the robot moves across the sports ground.
 4. The robot's path is manually aligned before marking begins.
 
-## 📦 Folder Structure
+
 
